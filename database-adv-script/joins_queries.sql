@@ -1,1 +1,1 @@
-
+ ["SELECT", "INNER JOIN", "FROM"]
